@@ -15,11 +15,13 @@
 ### Elevator 
 - Neo (20)
 - limit switches top and bottom
+- break wil be on
 ### Climbers 1 and 2
 - Neo
     - left (30)
     - right (31)
 - should operate separately
+- break will be on
 ### Shooter 
 - bottom Neo (40)
 - top Neo (41)
@@ -31,5 +33,6 @@
 - wrist
   - Neo 550 (52)
   - Absolute encoder
+  - break will be on
 - reverse and forward
 - should have a limit switch to stop the ring
