@@ -15,7 +15,7 @@
 ### Elevator 
 - Neo (20)
 - limit switches top and bottom
-### Climber 1 and 2
+### Climbers 1 and 2
 - Neo
     - left (30)
     - right (31)
@@ -27,7 +27,9 @@
 - Neo 550 (50)
 - elbow
   - Neo (51)
+  - Absolute encoder
 - wrist
   - Neo 550 (52)
+  - Absolute encoder
 - reverse and forward
 - should have a limit switch to stop the ring
