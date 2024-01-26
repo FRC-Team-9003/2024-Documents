@@ -37,4 +37,6 @@
 - reverse and forward
 - should have a limit switch to stop the ring
 
-test note 
+
+
+test 
