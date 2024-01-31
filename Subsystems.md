@@ -36,12 +36,16 @@
 - top Neo (41)
 
 ### Intake and Arm
-- Neo 550 (50)
+- Intake wheels: Neo 550 (50)
+	- Limit switch for when a note is loaded.
 - elbow
   - Neo (51)
   - Absolute encoder
+  - Limit switches for maximum and minimum position.
+  - break will be on
 - wrist
   - Neo 550 (52)
   - Absolute encoder
+  - Limit switches for maximum and minimum position.
   - break will be on
-- forward and reverse limit switches
+
