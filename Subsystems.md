@@ -21,6 +21,7 @@
 - Absolute Encoder
 - limit switches top and bottom
 - break will be on
+- up Reverse (- value) .15
 
 
 ### Climbers 1 and 2
@@ -34,18 +35,22 @@
 ### Shooter 
 - bottom Neo (40)
 - top Neo (41)
+- both out Forward (+value) .95
 
 ### Intake and Arm
 - Intake wheels: Neo 550 (50)
 	- Limit switch for when a note is loaded.
+	- in Reverse (-value) fast .8 -->
 - elbow
   - Neo (51)
   - Absolute encoder
   - Limit switches for maximum and minimum position.
   - break will be on
+  - up Reverse (-value) .25 - .3
 - wrist
   - Neo 550 (52)
   - Absolute encoder
   - Limit switches for maximum and minimum position.
   - break will be on
+  - up Reverse (-value) .12
 
