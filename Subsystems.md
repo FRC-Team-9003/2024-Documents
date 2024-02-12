@@ -37,7 +37,7 @@
 
 ### Intake and Arm
 - Intake wheels: Neo 550 (50)
-	- Limit switch for when a note is loaded.
+	- Infrared break beam for when a note is loaded. (Digital Port 1)
 - elbow
   - Neo (51)
   - Absolute encoder
