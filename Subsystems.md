@@ -33,8 +33,8 @@
 
 
 ### Shooter 
-- bottom Neo (40)
-- top Neo (41)
+- bottom Neo (41)
+- top Neo (40)
 - both out Forward (+value) .95
 
 ### Intake and Arm
